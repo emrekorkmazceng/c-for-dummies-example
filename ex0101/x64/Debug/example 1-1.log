@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (example 1-1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  example 1-1.cpp
+C:\Users\emre2\source\repos\c example\example 1-1\example 1-1.cpp(7,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\emre2\source\repos\c example\example 1-1\example 1-1.cpp(7,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+  example 1-1.vcxproj -> C:\Users\emre2\source\repos\c example\x64\Debug\ex0101.exe
